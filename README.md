@@ -1,0 +1,2 @@
+# aktas
+Git dersler
